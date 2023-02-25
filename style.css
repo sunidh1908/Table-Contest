@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+  }
+  
+  .navi {
+    background-color: black;
+    height: 60px;
+    padding: 20px;
+    color: white;
+  }
+  .butn button {
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    width: 300px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+  }
+  table {
+    color: black;
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 300px;
+    width: 100%;
+    outline: none;
+    text-align: center;
+  }
+  
+  .heads td {
+    border: 1px solid black;
+    padding-left: 20px;
+  }
+  td {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  
+    padding: 20px;
+  }
+  .tablebox {
+    margin: 20px;
+  }
+  
+  input {
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+  }
+  
+  .savebutt {
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
